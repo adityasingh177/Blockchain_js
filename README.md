@@ -1,3 +1,3 @@
-# Blockchain_js
+# Introduction 
 
 A basic blockchain written in node js
