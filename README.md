@@ -2,7 +2,7 @@
 
 A basic blockchain written in node js
 
-#Steps
+# Steps
 
 1. Build the block of a blockchain.
 
